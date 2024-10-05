@@ -4,7 +4,11 @@ This project focuses on analyzing customer behavior on Amazon, using Power BI, D
 
 <img width="713" alt="Amazon customer behavior" src="https://github.com/user-attachments/assets/bb4d2447-f45e-4273-9fd5-27f58df2b0a6">
 
+## Report Link
 
+Here’s the link to view the full report on Power BI: [View Report](https://app.powerbi.com/view?r=eyJrIjoiYjdlYWM3ZmItZTI0ZC00NTgxLWFkNGQtYjhhODIwOTJiMWM5IiwidCI6ImE4MzU4OTIxLWY0MjAtNGVkZS1hNTllLWExZTUxZDQ0Yjk3MSJ9)
+
+    
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
