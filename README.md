@@ -1,7 +1,6 @@
 
 # Amazon Customer Behavior Analysis
 This project focuses on analyzing customer behavior on Amazon, using Power BI, DAX, and SQL to provide insights into customer interactions, shopping habits, and decision-making processes. The project aims to help optimize marketing strategies and improve customer experience on Amazon through data analysis and visualization.
-![Amazon customer behavior analysis](https://github.com/user-attachments/assets/234c5271-ea6a-4508-824b-437547b57bd5)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
