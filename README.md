@@ -50,10 +50,7 @@ This project aims to analyze customer behavior patterns on Amazon, focusing on c
     FILTER(
         'amazon_db customerbehavior', 
         'amazon_db customerbehavior'[Review_Left] = "Yes"
-         )
-    )
-
-
+    ))
 
 - **Average of Purchase Frequency**
    ```DAX
