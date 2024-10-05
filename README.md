@@ -6,7 +6,7 @@ This project focuses on analyzing customer behavior on Amazon, using Power BI, D
 
 ## Report Link
 
-Here’s the link to view the full report on Power BI: [View Report](https://app.powerbi.com/view?r=eyJrIjoiYjdlYWM3ZmItZTI0ZC00NTgxLWFkNGQtYjhhODIwOTJiMWM5IiwidCI6ImE4MzU4OTIxLWY0MjAtNGVkZS1hNTllLWExZTUxZDQ0Yjk3MSJ9)
+Here’s the link to view the full interactive report on Power BI: [View Report](https://app.powerbi.com/view?r=eyJrIjoiYjdlYWM3ZmItZTI0ZC00NTgxLWFkNGQtYjhhODIwOTJiMWM5IiwidCI6ImE4MzU4OTIxLWY0MjAtNGVkZS1hNTllLWExZTUxZDQ0Yjk3MSJ9)
 
     
 ## Table of Contents
